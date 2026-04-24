@@ -107,6 +107,17 @@ smart-study/
 ---
 
 📸 Screenshots Reference
+<img width="1919" height="925" alt="Screenshot 2026-04-24 151153" src="https://github.com/user-attachments/assets/c548c871-a635-492f-9a2f-26f4969fd2bc" />
+<img width="1919" height="925" alt="Screenshot 2026-04-24 151153" src="https://github.com/user-attachments/assets/3208bc1f-a384-4351-8a00-d33063d4c28b" />
+<img width="1290" height="736" alt="Screenshot 2026-04-24 151428" src="https://github.com/user-attachments/assets/92568e98-e62c-4dac-9b75-1ae2339de202" />
+<img width="1312" height="840" alt="Screenshot 2026-04-24 151418" src="https://github.com/user-attachments/assets/b1d5a304-4eb0-41bb-813f-35bc5182b01b" />
+<img width="322" height="193" alt="Screenshot 2026-04-24 151332" src="https://github.com/user-attachments/assets/f3001ed3-5b3f-40e2-868b-80802ccf9ad9" />
+<img width="1919" height="929" alt="Screenshot 2026-04-24 151347" src="https://github.com/user-attachments/assets/5a1fabbd-4653-41b1-8e10-326b73ac4a4f" />
+<img width="321" height="163" alt="Screenshot 2026-04-24 151355" src="https://github.com/user-attachments/assets/f85872d9-8daa-4277-b9ac-3339308c755e" />
+<img width="1919" height="925" alt="Screenshot 2026-04-24 151153" src="https://github.com/user-attachments/assets/437b34a5-1c34-4860-9727-067a669a544d" />
+<img width="1919" height="928" alt="Screenshot 2026-04-24 151017" src="https://github.com/user-attachments/assets/0fd0a3f6-a4fe-48bd-8a61-36752a6ccb1c" />
+<img width="1919" height="930" alt="Screenshot 2026-04-24 151041" src="https://github.com/user-attachments/assets/de2ebffa-2f64-4b22-9ec7-156eb8c1b971" />
+<img width="1919" height="923" alt="Screenshot 2026-04-24 151052" src="https://github.com/user-attachments/assets/ff8a5228-c455-4800-882e-08c9633fdab5" />
 <img width="1919" height="929" alt="Screenshot 2026-04-24 151130" src="https://github.com/user-attachments/assets/7c8e72a1-7a79-4ce2-a932-2e156265c789" />
 
 Screen	Description
