@@ -107,6 +107,7 @@ smart-study/
 ---
 
 📸 Screenshots Reference
+<img width="1919" height="929" alt="Screenshot 2026-04-24 151130" src="https://github.com/user-attachments/assets/7c8e72a1-7a79-4ce2-a932-2e156265c789" />
 
 Screen	Description
 Login	Daytime forest scene, cream card, orange Sign In button
