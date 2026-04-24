@@ -105,56 +105,9 @@ smart-study/
 └── DESCRIPTION.md               # ← This file
 ```
 ---
-🚀 Getting Started
-1. Install dependencies
-```bash
-cd smart-study
-npm install
-```
-2. Run development server
-```bash
-npm run dev
-# → http://localhost:3000
-```
-3. Login
-```
-Username: admin
-Password: study123
-```
-(Any username + password works in demo mode)
-4. Upload a document
-Go to Knowledge Base → drag & drop a PDF, TXT, or MD file.
-5. Generate study materials
-Go to Study Tools → select your document → click Summarize, Flashcards, or Quiz.
----
-🌐 Deployment
-Build for production
-```bash
-npm run build
-# Output in /dist
-```
-Deploy to Vercel
-```bash
-npm i -g vercel
-vercel --prod
-```
-Deploy to Netlify
-```bash
-npm run build
-# Drag /dist folder to Netlify dashboard
-```
-Standalone API Key
-To use outside of Claude.ai, add your API key in `src/utils/api.js`:
-```js
-headers: {
-  'Content-Type': 'application/json',
-  'x-api-key': 'sk-ant-YOUR_KEY_HERE',
-  'anthropic-version': '2023-06-01'
-}
-```
-Get a key at https://console.anthropic.com
----
+
 📸 Screenshots Reference
+
 Screen	Description
 Login	Daytime forest scene, cream card, orange Sign In button
 Knowledge Base (Night)	Purple/orange sunset bg, upload zone, document list
